@@ -1,0 +1,37 @@
+{
+"1" : [
+    "Media/Custom1_left.png",
+    "Media/Custom1_right.png",
+    "Media/Custom1_left_gray.png"
+],
+"2" : [
+    "Media/Custom2_left.png",
+    "Media/Custom2_right.png",
+    "Media/Custom2_left_gray.png"
+],
+"3" : [
+    "Media/Custom3_left.png",
+    "Media/Custom3_right.png",
+    "Media/Custom3_left_gray.png"
+],
+"4" : [
+    "Media/Custom4_left.png",
+    "Media/Custom4_right.png",
+    "Media/Custom4_left_gray.png"
+],
+"5" : [
+    "Media/Custom5_left.png",
+    "Media/Custom5_right.png",
+    "Media/Custom5_left_gray.png"
+],
+"6" : [
+    "Media/Custom6_left.png",
+    "Media/Custom6_right.png",
+    "Media/Custom6_left_gray.png"
+],
+"7" : [
+    "Media/Custom7_left.png",
+    "Media/Custom7_right.png",
+    "Media/Custom7_left_gray.png"
+]
+}
